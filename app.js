@@ -10,6 +10,8 @@ document.body.style.backgroundColor = "yellow";
 
 // console.log(zero);
 
+// I edited 
+
 let score = 0;
 
 btn[0].addEventListener("click", () => {
